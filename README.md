@@ -22,3 +22,7 @@ URL: https://cdn.simplelocalize.io.s3.amazonaws.com/static/iso-3166-1-full
 ## 👩‍⚖️ License
 
 MIT © 
+
+## 📖 Source
+
+https://en.wikipedia.org/wiki/ISO_3166-1
