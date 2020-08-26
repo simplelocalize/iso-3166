@@ -6,7 +6,7 @@ Country codes, Country names, Alpha-2 codes. Fetch from URL or download
 
 ## 🚀 Usage
 
-URL: https://cdn.simplelocalize.io.s3.amazonaws.com/static/iso-3166-1-full
+URL: https://cdn.simplelocalize/static/iso-3166-1-full
 
 **Example**
 
